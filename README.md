@@ -4,11 +4,11 @@ Aplicação feita em React-Native durante o Ignite Lab de React-Native
 
 # Ambiente de desenvolvimento
 
-Visual Studio Code
-Expo-Cli
+Visual Studio Code<br>
+Expo-Cli<br>
 Expo-Go
 
 # Bibliotecas 
 
-Native-Base
+Native-Base<br>
 phosphor-react-native
