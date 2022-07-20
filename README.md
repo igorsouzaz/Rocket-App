@@ -11,4 +11,6 @@ Expo-Go
 # Bibliotecas 
 
 Native-Base<br>
-phosphor-react-native
+phosphor-react-native<br>
+@react-navigation/native<br>
+@react-navigation/native-stack
